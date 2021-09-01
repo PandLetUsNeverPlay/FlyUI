@@ -1,0 +1,12 @@
+#Config of the FlyUI plugin by PandLetUsNeverPlay
+
+#UI Settings
+title: §l§bFlyUI
+content: §7Do you want to enable or disable your fly?
+enable-button: §aEnable
+disable-button: §cDisable
+
+#Messages
+no-permission: §cYou do not have permission to use this command!
+fly-enabled: §aYou've enabled your fly!
+fly-disabled: §cYou've disabled your fly!
