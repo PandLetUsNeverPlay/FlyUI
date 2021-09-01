@@ -1,0 +1,15 @@
+name: FlyUI
+main: flyui\pand\Main
+author: PandLetUsNeverPlay
+version: 1.0.0
+api: 3.0.0
+
+commands:
+  fly:
+    description: Open the FlyUI
+    permission: flyui.open
+    
+permissions:
+  flyui.open:
+    default: OP
+    description: Gives access to open the FlyUI
